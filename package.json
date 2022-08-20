@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API of the iscsc.fr blog written with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandre Tullot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
